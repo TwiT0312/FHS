@@ -22,7 +22,3 @@ Traditional credit scores fail to capture holistic financial behaviour.
 - Explainable (SHAP-style contributions)
 - Reproducible with synthetic data
 
-## How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook
