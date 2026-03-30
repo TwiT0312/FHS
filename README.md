@@ -1,6 +1,6 @@
 # Financial Health Scoring using BGMM
 
-## Overview : Twisha Talukdar
+#### Author: Twisha Talukdar
 
 ## Overview
 This project demonstrates how to build a financial health score using Bayesian Gaussian Mixture Models.
